@@ -13,7 +13,7 @@ Alura Books é a representação de uma página de incial de livraria, contruíd
 <div style="display: block">
  
  ## Link do projeto
-  https://pedroreis16.github.io/CheckoutPage/
+  https://pedroreis16.github.io/AluraBooks/
 </div>
 
 ## Autor
