@@ -1,7 +1,7 @@
 # Alura Books
 
 ## Sobre o projeto 
-Alura Books é a representação de uma página de incial de livraria, contruído em HTML e CSS, durante um curso da Alura sobre responsividade e construção da página web utilizando a técnica de Mobile First
+Alura Books é a representação de uma página de incial de livraria, contruído em HTML e CSS, durante um curso da Alura sobre responsividade e construção da página web utilizando a técnica de Mobile First.
 
 ## Imagens do projeto
 <div style="display: inline_block">
